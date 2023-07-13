@@ -27,6 +27,7 @@ body {
 .header{
     background-color: #424242;
     color: whitesmoke;
+    margin: 10px 0 0 10px;
     font-size: 25px;
     border-radius: 20px 20px 0 0;
     font-family: 'Recursive', sans-serif;
@@ -65,4 +66,9 @@ body {
     font-family: 'Recursive', sans-serif;
     font-size: 24px;
     font-weight: 600;
+}
+
+.button {
+    width: 35px;
+    height: 35px;
 }
