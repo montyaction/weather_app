@@ -47,7 +47,7 @@ console.log(data);
       {
         (typeof data.main != 'undefined')
         ? (<Weather weatherData={data}/>)
-        : (<div><h1>Data is not aivable</h1></div>)
+        : (<div><h1>Data is not Available</h1></div>)
       }
     </div>
   );
